@@ -36,7 +36,3 @@ body {
     background-image: url('../title.png');
     margin: 10px;
 }
-
-.tile:hover {
-    background-color:lightblue;
-}
